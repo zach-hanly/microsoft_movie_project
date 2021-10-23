@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: TJ Bray, Zach Hanly, Aalok Joshi, Jerry Vasquez
 
 ## Overview
 
