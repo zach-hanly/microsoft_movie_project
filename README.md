@@ -10,6 +10,12 @@ A one-paragraph overview of the project, including the business problem, data, m
 
 Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
 
+We picked the data analysis questions we did because we wanted to try
+and find what factors were going to help Microsoft create the most 
+profitable and critically acclaimed movie studio they can. They are
+getting into the business later than others and it has become a 
+crowded space.
+
 ***
 Questions to consider:
 * What are the business's pain points related to this project?
@@ -55,10 +61,24 @@ Here is an example of how to embed images from your sub-folder:
 ![graph1](./filepath)
 
 ## Conclusions
+We recommend partnering with or buying IFC Films and/or Sony Pictures.
+They are two proven movie studios who have a track record of creating
+highly rated films.
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+We recommend creating Documentaries, Dramas, and Comedies. As they are
+most likely to highly rated on Rotten Tomatoes and IMDb. 
 
-***
+We recommend creating a documentary with Sebastien Lifshitz, a comedies
+with Simon Barett and Jamie Buckner. We would also recommend Dramas with
+Nikhil Mehrota, Nitesh Tiwari, Piyush Gupta, or Barry Jenkins.
+
+Our analysis may not solve the business problem because there is not a lot
+of correlation with regards to return on investment and one specific factor.
+There are many different reasons why a specific movie becomes successful and
+there is not one specific recipe. However, our analysis leads us to believe
+we have strong recommendations that would allow Microsoft to start their
+movie making journey on the proper path.
+
 Questions to consider:
 * What would you recommend the business do as a result of this work?
 * What are some reasons why your analysis might not fully solve the business problem?
