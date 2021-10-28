@@ -43,10 +43,10 @@ Here is an example of how to embed images from your sub-folder:
 ![graph1](./filepath)
 
 ### Visual 4
-![Top 20 directors](./zach/top_directors.png)
+![Top 20 Directors](./zach/top_directors.png)
 
 ### Visual 5
-![graph1](./filepath)
+![Top 30 Writers](./tj/top30writersROI.png)
 
 ## Conclusions
 We recommend partnering with or buying IFC Films and/or Sony Pictures.
