@@ -10,34 +10,16 @@ This project analyzed  what types of films are currently doing best at the box o
 
 Microsoft Studios has decided to create a new movie studio to create original video content like other big companies are doing. However, this is easier said than done. We see three main roadblocks or problems to expanding this line of business for Microsoft. Firstly this is a saturated marketplace that everyone seems intent on entering. Secondly, though Microsoft has experience in a variety of different industries, content production and streaming platforms are not amongst them. This lack of prior experience can result in expensive mistakes (i.e. Tubi or the Microsoft Zune). Finally the lack of experience also rolls over into Microsoft Studios’ lack of subject matter experts (directors, writers, etc.) and domain specific knowledge. 
 
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
 ## Data
 
 The date is from five different sources: [IMDB](https://www.imdb.com/) and [Box Office Mojo by IMDb](https://www.boxofficemojo.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [The Movie Database](https://www.themoviedb.org/?language=en-US), [The Numbers](https://www.the-numbers.com/). It was joined using unique ids for movies and crew, and also using movie names. 
 
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
 
 ## Methods
 
 This project uses descriptive statistics to analyze the data for top performing studios, genres, directors and writers. This provides a general overview of the movies that are doing well at the box office.  
 
-***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
 
 ## Results
 
