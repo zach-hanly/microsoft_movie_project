@@ -13,7 +13,7 @@ Microsoft Studios has decided to create a new movie studio to create original vi
 
 ## Data
 
-The date is from five different sources: [IMDB](https://www.imdb.com/) and [Box Office Mojo by IMDb](https://www.boxofficemojo.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [The Movie Database](https://www.themoviedb.org/?language=en-US), [The Numbers](https://www.the-numbers.com/). It was joined using unique ids for movies and crew, and also using movie names. 
+The date is from five different sources: [IMDB](https://www.imdb.com/) and [Box Office Mojo by IMDb](https://www.boxofficemojo.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [The Movie Database](https://www.themoviedb.org/?language=en-US), and [The Numbers](https://www.the-numbers.com/). It was joined using unique ids for movies and crew, and also using movie names. 
 
 
 ## Methods
