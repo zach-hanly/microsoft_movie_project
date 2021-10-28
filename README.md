@@ -25,11 +25,10 @@ This project uses descriptive statistics to analyze the data for top performing 
 
 Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
+For Directors:
+There is no correlation between a director's average worldwide gross and average movie rating. 
+This is true for the entire dataset of directors and gives us confidence that the results will 
+generalize beyond the data in this analysis. 
 
 Here is an example of how to embed images from your sub-folder:
 
