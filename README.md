@@ -43,10 +43,10 @@ Here is an example of how to embed images from your sub-folder:
 ![graph1](./filepath)
 
 ### Visual 4
-![Top 20 directors](./zach/top_directors.png)
+![Top 20 Directors](./zach/top_directors.png)
 
 ### Visual 5
-![graph1](./filepath)
+![Top 30 Writers](./tj/top30writersROI.png)
 
 ## Conclusions
 We recommend partnering with or buying IFC Films and/or Sony Pictures.
@@ -60,6 +60,11 @@ We recommend creating a documentary with Sebastien Lifshitz, a comedies
 with Simon Barett and Jamie Buckner. We would also recommend Dramas with
 Nikhil Mehrota, Nitesh Tiwari, Piyush Gupta, or Barry Jenkins.
 
+We recommend, for Microsoft's movies to be both finacially succesful and 
+high quality movies in order to compete against other 
+big studios, that they specifically target directors that have exceeded 
+in both. 
+
 Our analysis may not solve the business problem because there is not a lot
 of correlation with regards to return on investment and one specific factor.
 There are many different reasons why a specific movie becomes successful and
@@ -67,15 +72,9 @@ there is not one specific recipe. However, our analysis leads us to believe
 we have strong recommendations that would allow Microsoft to start their
 movie making journey on the proper path.
 
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
-
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./filepath) or our [presentation](./filepath).
+Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipynb) or our [presentation](./filepath).
 
 For any additional questions, please contact **name & email, name & email**
 
