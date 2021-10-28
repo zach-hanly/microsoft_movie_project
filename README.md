@@ -4,17 +4,11 @@
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This project analyzed  what types of films are currently doing best at the box office for Microsoft to potentially get into original video content. Using descriptive statistics and data from various online databases with information about movies, we have identified three solution areas within which we make recommendations. These are business partnerships, content selection and personnel/hiring. 
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
-We picked the data analysis questions we did because we wanted to try
-and find what factors were going to help Microsoft create the most 
-profitable and critically acclaimed movie studio they can. They are
-getting into the business later than others and it has become a 
-crowded space.
+Microsoft Studios has decided to create a new movie studio to create original video content like other big companies are doing. However, this is easier said than done. We see three main roadblocks or problems to expanding this line of business for Microsoft. Firstly this is a saturated marketplace that everyone seems intent on entering. Secondly, though Microsoft has experience in a variety of different industries, content production and streaming platforms are not amongst them. This lack of prior experience can result in expensive mistakes (i.e. Tubi or the Microsoft Zune). Finally the lack of experience also rolls over into Microsoft Studios’ lack of subject matter experts (directors, writers, etc.) and domain specific knowledge. 
 
 ***
 Questions to consider:
@@ -25,7 +19,7 @@ Questions to consider:
 
 ## Data
 
-Describe the data being used for this project.
+The date is from five different sources: [IMDB](https://www.imdb.com/) and [Box Office Mojo by IMDb](https://www.boxofficemojo.com/), [Rotten Tomatoes](https://www.rottentomatoes.com/), [The Movie Database](https://www.themoviedb.org/?language=en-US), [The Numbers](https://www.the-numbers.com/). It was joined using unique ids for movies and crew, and also using movie names. 
 
 ***
 Questions to consider:
@@ -37,7 +31,7 @@ Questions to consider:
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+This project uses descriptive statistics to analyze the data for top performing studios, genres, directors and writers. This provides a general overview of the movies that are doing well at the box office.  
 
 ***
 Questions to consider:
@@ -58,6 +52,18 @@ Questions to consider:
 Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
+![graph1](./filepath)
+
+### Visual 2
+![graph1](./filepath)
+
+### Visual 3
+![graph1](./filepath)
+
+### Visual 4
+![Top 20 directors](./zach/top_directors.png)
+
+### Visual 5
 ![graph1](./filepath)
 
 ## Conclusions
