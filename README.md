@@ -43,7 +43,7 @@ Here is an example of how to embed images from your sub-folder:
 ![graph1](./filepath)
 
 ### Visual 4
-![Top 20 Directors](./zach/top_directors.png)
+![Top 20 Directors](./zach/director_correlation.png)
 
 ### Visual 5
 ![Top 30 Writers](./tj/top30writersROI.png)
