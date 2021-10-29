@@ -37,7 +37,7 @@ generalize beyond the data in this analysis.
 
 ### Visual 2
 ## Top 5 Movie Genres Rated Over 8
-![Top 5 Movie Genres Rated Over 8](./jerry/TopFiveGenres.png)
+![Top 5 Movie Genres Rated Over 8](./images/TopFiveGenres.png)
 
 ### Visual 3
 ## Top 20 Directors
