@@ -1,6 +1,6 @@
 # Title
 
-**Authors**: TJ Bray, Zach Hanly, Aalok Joshi, Jerry Vasquez
+**Authors**: TJ Bray,  Zach Hanly,  Aalok Joshi,  Jerry Vasquez
 
 ## Overview
 
