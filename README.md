@@ -24,19 +24,23 @@ This project uses descriptive statistics to analyze the data for top performing 
 ## Results
 
 For Studios:
+
 From our analysis we conclude that IFC Films, New Line Cinema, and Sony Pictures are 
 the three best studios by average critical rating.
 
 For Genres:
+
 Based on the frequencies Drama, Documentary, and Comedy genres are among the top 3 most 
 highly rated movie genres. 
 
 For Writers:
+
 When analyzing the top writers since 2000, ROI is not correlated with any other variables 
 when creating a movie. By investing in writers who have a proven track record of return on 
 investment, we can maximize the profitability of the studio.
 
 For Directors:
+
 There is no correlation between a director's average worldwide gross and average movie rating. 
 This is true for the entire dataset of directors and gives us confidence that the results will 
 generalize beyond the data in this analysis. 
