@@ -40,8 +40,8 @@ generalize beyond the data in this analysis.
 ![Top 5 Movie Genres Rated Over 8](./images/TopFiveGenres.png)
 
 ### Visual 3
-## Top 20 Directors
-![Top 20 Directors](./images/director_correlation.png)
+## Director's Worldwide Gross and Movie Ratings
+![Director's Worldwide Gross and Movie Ratings](./images/director_correlation.png)
 
 ### Visual 4
 ## Top 30 Writers
