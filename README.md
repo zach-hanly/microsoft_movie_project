@@ -32,19 +32,17 @@ generalize beyond the data in this analysis.
 
 Here is an example of how to embed images from your sub-folder:
 
+
 ### Visual 1
-![graph1](./filepath)
+![Studios by Average Critical Rating](./aalok/aalok_pic.png)
 
 ### Visual 2
-![graph1](./filepath)
+![Top 5 Movie Genres Rated Over 8](./jerry/TopFiveGenres.png)
 
 ### Visual 3
-![graph1](./jerry/TopFiveGenres.png)
-
-### Visual 4
 ![Top 20 Directors](./zach/director_correlation.png)
 
-### Visual 5
+### Visual 4
 ![Top 30 Writers](./tj/top30writersROI.png)
 
 ## Conclusions
