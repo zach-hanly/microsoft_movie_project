@@ -35,9 +35,7 @@ highly rated movie genres.
 
 For Writers:
 
-When analyzing the top writers since 2000, ROI is not correlated with any other variables 
-when creating a movie. By investing in writers who have a proven track record of return on 
-investment, we can maximize the profitability of the studio.
+Following the genre recommendations from Jerry, the best hires in the Documentary, Comedy, and Drama categories would be Sebastien Lifshitz, Jamie Buckner, and Joe Camp, respectively.
 
 For Directors:
 
@@ -95,9 +93,9 @@ Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipyn
 ## Repository Structure
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── master_notebook.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── presentation_microsoft_movie_project.pdf         <- PDF version of project 
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                 <- The top-level README for reviewers of this project
+├── master_notebook.ipynb     <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf          <- PDF version of project 
+├── data                      <- Both sourced externally and generated from code
+└── images                    <- Both sourced externally and generated from code
 ```# microsoft_movie_project
