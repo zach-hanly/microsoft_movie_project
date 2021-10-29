@@ -89,7 +89,7 @@ movie making journey on the proper path.
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipynb) or our [presentation](./filepath).
+Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipynb) or our [presentation](./presentation_microsoft_movie_project.pdf).
 
 
 ## Repository Structure
@@ -97,7 +97,7 @@ Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipyn
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── master_notebook.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── presentation_microsoft_movie_project.pdf         <- PDF version of project 
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```# microsoft_movie_project
