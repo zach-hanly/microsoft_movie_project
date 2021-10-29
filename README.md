@@ -23,14 +23,12 @@ This project uses descriptive statistics to analyze the data for top performing 
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
 For Directors:
 There is no correlation between a director's average worldwide gross and average movie rating. 
 This is true for the entire dataset of directors and gives us confidence that the results will 
 generalize beyond the data in this analysis. 
 
-Here is an example of how to embed images from your sub-folder:
 
 
 ### Visual 1
@@ -77,7 +75,6 @@ movie making journey on the proper path.
 
 Please review our full analysis in [our Jupyter Notebook](./master_notebook.ipynb) or our [presentation](./filepath).
 
-For any additional questions, please contact **name & email, name & email**
 
 ## Repository Structure
 
@@ -85,7 +82,7 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── master_notebook.ipynb   <- Narrative documentation of analysis in Jupyter notebook
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
