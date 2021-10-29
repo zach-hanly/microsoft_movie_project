@@ -23,12 +23,19 @@ This project uses descriptive statistics to analyze the data for top performing 
 
 ## Results
 
+For Studios:
+From our analysis we conclude that IFC Films, New Line Cinema, and Sony Pictures are the three best.
+
+For Genres:
+Based on the frequencies the Drama, Documentary, and Comedy genres with the most amount of high ratings.
 
 For Directors:
 There is no correlation between a director's average worldwide gross and average movie rating. 
 This is true for the entire dataset of directors and gives us confidence that the results will 
 generalize beyond the data in this analysis. 
 
+For Writers:
+When analyzing the top writers since 2000, ROI is not correlated with any other variables when creating a movie.
 
 
 ### Visual 1
