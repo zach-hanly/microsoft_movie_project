@@ -33,7 +33,7 @@ generalize beyond the data in this analysis.
 
 ### Visual 1
 ## Studios by Average Critical Rating
-![Studios by Average Critical Rating](./aalok/aalok_pic.png)
+![Studios by Average Critical Rating](./images/aalok_pic.png)
 
 ### Visual 2
 ## Top 5 Movie Genres Rated Over 8
@@ -41,11 +41,11 @@ generalize beyond the data in this analysis.
 
 ### Visual 3
 ## Top 20 Directors
-![Top 20 Directors](./zach/director_correlation.png)
+![Top 20 Directors](./images/director_correlation.png)
 
 ### Visual 4
 ## Top 30 Writers
-![Top 30 Writers](./tj/top30writersROI.png)
+![Top 30 Writers](./images/top30writersROI.png)
 
 ## Conclusions
 We recommend partnering with or buying IFC Films and/or Sony Pictures.
